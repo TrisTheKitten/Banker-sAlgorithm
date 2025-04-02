@@ -1,2 +1,2 @@
-# Banker-sAlgorithm
-Simulations of Deadlock detection using the Banker's Algorithm implemented in Java. 
+# Banker's-Algorithm
+Simple simulation of deadlock detection using the Banker's algorithm was implemented in Java. 
